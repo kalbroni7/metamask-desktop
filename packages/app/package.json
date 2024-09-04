@@ -144,7 +144,7 @@
     "deep-freeze-strict": "1.1.1",
     "electron-log": "5.0.0-beta.14",
     "electron-store": "^8.1.0",
-    "electron-updater": "^5.2.1",
+    "electron-updater": "^6.3.0",
     "end-of-stream": "^1.4.4",
     "eth-block-tracker": "^7.0.0",
     "eth-ens-namehash": "^2.0.8",
