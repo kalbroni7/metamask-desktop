@@ -74,7 +74,7 @@
     "@keystonehq/bc-ur-registry-eth": "^0.12.1",
     "@keystonehq/metamask-airgapped-keyring": "^0.6.1",
     "@lavamoat/snow": "^1.5.0",
-    "@ledgerhq/hw-app-eth": "^6.29.8",
+    "@ledgerhq/hw-app-eth": "^6.38.1",
     "@ledgerhq/hw-transport-node-hid-noevents": "^6.27.5",
     "@material-ui/core": "^4.11.0",
     "@metamask/address-book-controller": "^1.0.0",
