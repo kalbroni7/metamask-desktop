@@ -149,7 +149,7 @@
     "eth-block-tracker": "^7.0.0",
     "eth-ens-namehash": "^2.0.8",
     "eth-json-rpc-filters": "^6.0.0",
-    "eth-lattice-keyring": "^0.12.3",
+    "eth-lattice-keyring": "^1.1.0",
     "eth-method-registry": "^2.0.0",
     "eth-query": "^2.1.2",
     "eth-rpc-errors": "^4.0.2",
